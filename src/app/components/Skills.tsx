@@ -9,7 +9,7 @@ export function Skills() {
     },
     {
       title: "Frameworks",
-      skills: ["Django", "Flask", "Spring Boot", "React", "FastAPI"],
+      skills: ["Django", "Flask", "Spring Boot", "React", "FastAPI", "LangChain", "TensorFlow", "PyTorch"],
       color: "#0ea5e9",
     },
     {

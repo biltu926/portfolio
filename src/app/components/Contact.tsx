@@ -18,7 +18,7 @@ export function Contact() {
     {
       name: "HackerRank",
       icon: Code,
-      url: "https://hackerrank.com/supratimhldr6",
+      url: "https://www.hackerrank.com/profile/spiral_bomb",
       username: "@supratimhldr6",
     },
     {
@@ -111,9 +111,6 @@ export function Contact() {
           >
             <p className="text-[#64748b] text-sm">
               © 2026 Supratim Halder. Built with React & Tailwind CSS.
-            </p>
-            <p className="text-[#64748b] text-xs mt-2">
-              Designed with passion for clean code and elegant solutions.
             </p>
           </motion.div>
         </motion.div>
